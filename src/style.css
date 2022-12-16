@@ -1,0 +1,16 @@
+header {
+    margin: 30px;
+    text-align: center;
+}
+
+.grid {
+    border: 2px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    overflow: auto;
+}
+
+.grid img {
+    margin: 4px;
+}
