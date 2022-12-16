@@ -1,3 +1,8 @@
+body {
+    background-color:"black"
+    color:lightcoral;
+}
+
 header {
     margin: 30px;
     text-align: center;
