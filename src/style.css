@@ -1,5 +1,5 @@
 body {
-    background-color:"black"
+    background-color:black;
     color:lightcoral;
 }
 
@@ -9,7 +9,7 @@ header {
 }
 
 .grid {
-    border: 2px solid black;
+    border: 2px solid lightblue;
     display: flex;
     flex-wrap: wrap;
     width: 80%;
